@@ -1,0 +1,23 @@
+/*
+	different colors: https://www.w3schools.com/colors/colors_names.asp
+*/
+
+/* text classes */
+.tomate{
+	color: tomato;
+}
+.green{
+	color: DarkGreen;
+}
+
+/* table classes */
+.standardtable{
+	width: 100%;
+}
+
+.standardtable tr:nth-child(even) {
+	background: #CCC;
+}
+.standardtable tr:nth-child(odd) {
+	background: #EEE;
+}

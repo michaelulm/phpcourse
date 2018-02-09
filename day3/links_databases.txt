@@ -1,0 +1,20 @@
+================================================
+Tools
+================================================
+DIA - Tool to design ER Diagrams
+http://dia-installer.de/index.html.de
+
+Powerful DB Administration Tool for MySQL DBMS
+https://www.mysql.com/de/products/workbench/
+
+ER-Modellierung
+https://de.wikipedia.org/wiki/Entity-Relationship-Modell
+
+================================================
+Database Management Systems
+================================================
+PostgreSQL
+https://www.postgresql.org/
+
+MySQL
+https://www.mysql.com/de/

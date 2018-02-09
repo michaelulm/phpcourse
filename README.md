@@ -11,6 +11,6 @@ Basic PHP Course, concepted for 4 days
 - Variables
 - Conditions
 - Loops
- - for
- - while
+  - for
+  - while
 - Arrays

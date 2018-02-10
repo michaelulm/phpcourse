@@ -32,6 +32,24 @@ Basic PHP Course, concepted for 4 days
   - UPDATE 
   - DELETE
   
+## 4.Day
+- Different examples for practice PHP Skills
+  - Example Calendar
+    - add year, month and week overview
+	- add, edit, delete entries
+  - Drivers Log
+    - add last car invoice with fuel price, fuel amount, invoice date
+	- calculate fuel price per amount (Durchschnittsverbrauch, Preis/Liter)
+	- month and year costs
+  - Blog System 
+    - create and edit blog posts (title, text, category, keywords,...)
+	- show last 5 blog posts with e.g. 200 words
+	- show the next 5 blog posts only with title
+- Sessions
+  - create
+  - usage
+  - destroy
+  
 
 ## useful links
 
@@ -39,6 +57,10 @@ Basic PHP Course, concepted for 4 days
 - PHP Manual, Tutorials, ....
   - http://php.net/manual/de/
   - https://www.w3schools.com/php/
+- Cheatsheets
+  - https://www.keycdn.com/blog/php-cheat-sheet/
+  - http://webdevzoom.com/php-cheat-sheet-examples-pdf/
+  
 
 ### Database Tools
 - DIA - Tool to design ER Diagrams
@@ -55,3 +77,13 @@ Basic PHP Course, concepted for 4 days
   - https://www.postgresql.org/
 - MySQL (XAMPP will work out of the box)
   - https://www.mysql.com/de/
+  
+  
+## TODOs
+- OOP Concepts (5. Day ?)
+- add educational objective (Lernziele)
+- add educational guides (Unterrichtsdesign und Unterrichtsgestaltung)
+- improve current codes and examples
+  - short examples (real useful examples for beginners)
+  - extract important methods
+  - self training area

@@ -7,7 +7,7 @@
 	// create connection
 	$connection = mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD) or die("Verindung konnte nicht hergestellt werden");
 	// select database
-	$mysqli_select_db = ($connection, DB_DATABASE);
+	mysqli_select_db($connection, DB_DATABASE);
 	
 	// echo "Datenbankzugriff erfolgreich";
 		
